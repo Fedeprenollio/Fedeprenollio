@@ -8,9 +8,9 @@ Soy argentino de 34 años. Licenciado en quimica farmaceutica con mas de 10 año
 Como segundo proyecto, grupal, creamos una e-commerce con un amplio panel de administracion, sistema de preguntas y respuestas muy dinamico entre otras funcionalidads
  
 - Mis proyectos:
-  https://github.com/Fedeprenollio/PI-Pokemones - https://pi-pokemones.vercel.app/
+   - https://github.com/Fedeprenollio/PI-Pokemones - https://pi-pokemones.vercel.app/
   
- https://github.com/Fedeprenollio/Final-Project - https://final-project-beryl.vercel.app/
+   - https://github.com/Fedeprenollio/Final-Project - https://final-project-beryl.vercel.app/
  
  Idiomas y Herramientas: Javascript | React | Redux | NodeJs | Express | PostgreSQL | HTML
  
